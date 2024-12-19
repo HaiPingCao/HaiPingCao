@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MH362
-- 🌱 I’m currently learning Python, C#
+- 👋 Hi, I’m @HaiPingCao
+- 🌱 I’m currently learning Python, C# and Rust
 
 <!---
 MH362/MH362 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
