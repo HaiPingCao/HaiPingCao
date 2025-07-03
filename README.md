@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @HaiPingCao (Minh Hai)
-I'm the person who is passionate about coding, graphic design, and electrical engineering. My motivation to continue on my path is curiosity about how everything works.
-- Currently, being a software engineering student at FPT University.
+I'm the person who is passionate about coding, 3D graphic design (especially shaders), and electrical engineering. My motivation to continue on my path is curiosity about how everything works.
+- Currently, I am a software engineering student at FPT University.
 - Learning C, C++, C#, JS, and Rust.
 - Having experience in Python.
 - Contract:
